@@ -2,7 +2,13 @@
 
 ## 当前活动
 
-Nothing
+- 时间：2024.6.22，14:00 ~ 17:30
+- 地点：深圳市南山区海天一路17-3号软件产业基地4栋B座1楼，距离9号线深大南地铁站距离约200米
+（进场需报名并添加组织者联系方式，抵达可联系组织者带领大家进去）
+
+[《KotlinConf‘24 Global Shenzhen | 深圳线下活动报名表》](https://shimo.im/forms/NJkbnBRYPbHZx9kR/fill) 
+
+![image](https://github.com/szkug/events/assets/48782433/993b0a08-872a-49b4-b56e-92d0ecd02d74)
 
 ## 线上活动记录
 
