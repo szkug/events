@@ -18,3 +18,4 @@
 | 2021/12/18 | [Kotlin 函数式与协程标准库](event_record/20211218.md) |
 | 2022/05/02 | [Jetpack Compose 分享](event_record/20220502.md) |
 | 2023/05/21 | [深圳 KotlinConf Global 2023](current_event/kotlinconf.md) |
+| 2024/11/09 | [Kotlin 协程：在 Java NIO 和 Linux io_uring 上的实践探索](current_event/20241109.md) |
